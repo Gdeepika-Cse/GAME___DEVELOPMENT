@@ -160,6 +160,7 @@ clrscr();
    getch(); 
  }
 
+```
 # Output :
 
 ![Screenshot 2025-05-02 113228](https://github.com/user-attachments/assets/cef91f47-3957-49ea-82e4-113bab2fbc9e)
