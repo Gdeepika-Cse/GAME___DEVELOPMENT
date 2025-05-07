@@ -168,5 +168,4 @@ clrscr();
 ![Screenshot 2025-05-02 113312](https://github.com/user-attachments/assets/a79354db-dc43-434b-8e57-8e45cdf4d581)
 
 # Result :
-
 Thus to write a c program to implement 2D transformation of image is implemented successfully.
